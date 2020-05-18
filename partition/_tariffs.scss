@@ -1,0 +1,55 @@
+.tariffs {
+	background-color: #70CBCE;
+	height: 803px;
+	
+
+	.Zagolovok {
+		padding-top: 80px;
+		color: $color_white;
+		text-align: center;
+	}
+
+	h2 {
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: 800;
+		font-size: 40px;
+		line-height: 49px;
+	}
+
+	p {
+		font-size: 21px;
+		line-height: 26px;
+	}
+
+	.tarif {
+		text-align: center;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	
+	}
+
+	ul {
+		background-color: $color_white;
+		
+	}
+
+	li {
+		padding: 8px;
+	}
+
+	.black {
+		background-color: #231F20;
+		color: $color_white;
+	}
+
+	.silver {
+		background: rgba(196, 196, 196, 0.5);
+	}
+
+	.silvers {
+		background: rgba(0, 0, 0, 0.5);
+	}
+
+}

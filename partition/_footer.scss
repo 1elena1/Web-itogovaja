@@ -1,0 +1,20 @@
+.footer {
+	height: 271px;
+	display: flex;
+	align-items: center;
+	color: $color_silver;
+//	justify-content: space-between;
+
+	a {
+		
+	}
+	.icon{
+		color: $color_silver;
+		border: 1px solid #929496;
+		box-sizing: border-box;
+		border-radius: 3px;
+		padding: 6px 8px;
+	}
+
+
+}
